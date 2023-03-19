@@ -1,27 +1,27 @@
-keymap	vietnamese	cantonese
-q	gw	iu
-w	yw	w
-e	e	e
-r	uo	oe
-t	t	t
-y	y	y
-u	u	u
-i	i	i
-o	o	o
-p	p	p
-a	a	a
-s	s	s
-d	d	d
-f	f	f
-g	g	g
-h	h	h
-j	ch	j
-k	gh	k
-l	l	l
-z	dy	ua
-x	sy	ui
-c	c	c
-v	fw	um
-b	b	b
-n	n	n
-m	m	m
+keymap	vietnamese	cantonese mandarin  japanese
+q	gw	iu  yu  '
+w	yw	w w w
+e	e	e e e
+r	uo	oe  oa  -
+t	t	t t t
+y	y	y y y
+u	u	u u u
+i	i	i i i
+o	o	o o o
+p	p	p p p
+a	a	a a a
+s	s	s s s
+d	d	d d d
+f	f	f f f
+g	g	g g g
+h	h	h h h
+j	ch	j j j
+k	gh	k k k
+l	l	l l l
+z	dy	ua  ua  _
+x	sy	ui    x
+c	c	c c c
+v	fw	um  on  nn
+b	b	b b b
+n	n	n n n
+m	m	m m m
