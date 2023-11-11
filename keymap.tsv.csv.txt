@@ -1,27 +1,27 @@
-keymap	vietnamese	cantonese	mandarin	japanese
-q	gw	iu	yu	'
-w	yw	w	w	w
-e	e	e	e	e
-r	uo	oe	oa	-
-t	t	t	t	t
-y	y	y	y	y
-u	u	u	u	u
-i	i	i	i	i
-o	o	o	o	o
-p	p	p	p	p
-a	a	a	a	a
-s	s	s	s	s
-d	d	d	d	d
-f	f	f	f	f
-g	g	g	g	g
-h	h	h	h	h
-j	ch	j	j	j
-k	gh	k	k	k
-l	l	l	l	l
-z	dy	ua	ua	;
-x	sy	ui		x
-c	c	c	c	c
-v	fw	um	on	_
-b	b	b	b	b
-n	n	n	n	n
-m	m	m	m	m
+keymap	vietnamese	cantonese	mandarin	japanese	greek	cyrillic
+q	gw	iu	yu	'	χ	ъ
+w	yw	w	w	w	ω	ь
+e	e	e	e	e	ε	е
+r	uo	oe	oa	-	ρ	р
+t	t	t	t	t	θ	т
+y	y	y	y	y	υ	й
+u	u	u	u	u	¨	у
+i	i	i	i	i	ι	и
+o	o	o	o	o	ο	о
+p	p	p	p	p	π	п
+a	a	a	a	a	α	а
+s	s	s	s	s	σ	с
+d	d	d	d	d	δ	д
+f	f	f	f	f	φ	ф
+g	g	g	g	g	γ	г
+h	h	h	h	h	η	х
+j	ch	j	j	j	΄	ж
+k	gh	k	k	k	κ	к
+l	l	l	l	l	λ	л
+z	dy	ua	ua	;	ζ	з
+x	sy	ui		x	ξ	ш
+c	c	c	c	c	τ	ц
+v	fw	um	on	_	ψ	в
+b	b	b	b	b	β	б
+n	n	n	n	n	ν	н
+m	m	m	m	m	μ	м
