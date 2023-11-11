@@ -18,10 +18,10 @@ h	h	h	h	h
 j	ch	j	j	j
 k	gh	k	k	k
 l	l	l	l	l
-z	dy	ua	ua	_
+z	dy	ua	ua	;
 x	sy	ui		x
 c	c	c	c	c
-v	fw	um	on	nn
+v	fw	um	on	_
 b	b	b	b	b
 n	n	n	n	n
 m	m	m	m	m
